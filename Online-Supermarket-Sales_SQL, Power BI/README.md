@@ -4,7 +4,7 @@
 
 This project analyzes sales, marketing performance and operational processes of an online supermarket. The dataset is taken from Kaggle.
 
-Review the SQL Script: **[HERE](https://github.com/Ekaterina-Kut/Data-Analyst-Portfolio/blob/main/Blinkit_analysis.sql)**.
+Review the SQL Script: **[HERE](https://github.com/Ekaterina-Kut/Data-Analyst-Portfolio/blob/main/Online-Supermarket-Sales_SQL%2C%20Power%20BI/Blinkit_analysis.sql)**.
 ## 🛠️ Tools
 
 - **SQL**: for data exploration, data quality checks, and analysis.
