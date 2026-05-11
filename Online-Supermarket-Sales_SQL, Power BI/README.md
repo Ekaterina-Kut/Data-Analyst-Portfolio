@@ -11,9 +11,9 @@ Review the SQL Script: **[HERE](https://github.com/Ekaterina-Kut/Data-Analyst-Po
 - **Power BI**: for interactive dashboards and visualizations.
 
 ## 📈 Visualisations
-- ![Sales Overview](visuals/blinkit_sales_overview.png)
-- ![Marketing Performance](visuals/blinkit_marketing_performance.png)
-- ![Operations Overview](visuals/blinkit_operations_overview.png)
+- Sales Overview ![Sales Overview](visuals/blinkit_sales_overview.png)
+- Marketing Performance ![Marketing Performance](visuals/blinkit_marketing_performance.png)
+- Operations Overview ![Operations Overview](visuals/blinkit_operations_overview.png)
 
 ## 📝 Key conclusions
 
