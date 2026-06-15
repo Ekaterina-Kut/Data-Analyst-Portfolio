@@ -1,5 +1,3 @@
-
-
 # Teen Mental Health Analysis
 
 
@@ -9,10 +7,22 @@ Mental health indicators include depression status as well as stress, anxiety, a
 
 The dashboards are intended for exploratory data analysis and visualization. They highlight patterns and potential associations within the dataset but do not establish causation or statistically significant relationships.
 
-Review the file: **[HERE](https://github.com/Ekaterina-Kut/Data-Analyst-Portfolio/blob/main/Teen-Mental-Health_Excel/Teen_Mental_Health.xlsx)**.
-## 🛠️ Tool
+View the Excel file: **[HERE](https://github.com/Ekaterina-Kut/Data-Analyst-Portfolio/blob/main/Teen-Mental-Health_Excel/Teen_Mental_Health.xlsx)**.
+## 🛠️ Tools
 
-- **MS Excel**: for data checking, cleaning and visualisation.
+- **MS Excel**: for data cleaning, preparation, pivot tables, charts, and dashboard creation.
+
+## Data Preparation
+
+- Checked the dataset for duplicate rows.
+- Converted selected columns to numeric data types.
+- Created the sleep_level, activity_brackets, and social_media_level categories using the IF function.
+
+## Dataset
+
+Source: Kaggle (Teen Mental Health Dataset)
+
+The dataset contains information about adolescents, including demographic characteristics, social media usage, sleep habits, physical activity, academic performance, and mental health indicators.
 
 ## 📈 Dashboards
 - Teen Mental Health and Demographic ![Teen-Mental-Health-and-Demographic](Visualisation/Teen-Mental-Health-and-Demographic.png)
